@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string-array name="classmate">
+        <item>移动1711</item>
+        <item>移动1813</item>
+        <item>移动1911</item>
+    </string-array>
+</resources>
